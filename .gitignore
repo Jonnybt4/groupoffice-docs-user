@@ -1,4 +1,4 @@
 .DS_Store
 nbproject
-_build
+/_build/*
 
