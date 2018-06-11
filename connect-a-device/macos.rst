@@ -16,6 +16,36 @@ in Group-Office.
 
 `Click here to download Group-Office Assistant for MacOS <http://repo.group-office.com/downloads/group-office-assistant-macos.dmg>`_.
 
+After downloading take the following steps to install:
+
+1. Open the DMG file and drag "Group-Office Assistant" in the "Applications" folder.
+
+   .. figure:: /_static/macos-assistant/1-dmg.png
+      :width: 400px
+
+2. Launch Group-Office Assistant and MacOS will prompt for a security warning.
+
+   .. figure:: /_static/macos-assistant/2-security-and-privacy.png
+      :width: 400px
+
+3. Navigate to System Preferences -> Security and Privacy and click the "Open anyway" button.
+
+   .. figure:: /_static/macos-assistant/1-warning.png
+      :width: 400px
+
+4. Confirm.
+
+   .. figure:: /_static/macos-assistant/3-are-you-sure.png
+      :width: 400px
+
+5. In Group-Office right click on a file and choose "Open with".
+
+6. Select the "Your desktop application (WebDAV) option to use the assistant.
+
+
+   .. figure:: /_static/macos-assistant/4-select-application.png
+      :width: 400px
+
 Calendar & Contacts
 -------------------
 
