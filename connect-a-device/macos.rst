@@ -1,5 +1,6 @@
 MacOS
 =====
+
 On Mac OS you can synchronize:
 
 - Files
