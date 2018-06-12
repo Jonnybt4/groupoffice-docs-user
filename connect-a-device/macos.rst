@@ -87,11 +87,17 @@ system administrator for the right IMAP and SMTP settings.
 
 Intermesh uses:
 
-Username: e-mail address
-Password: Group-Office password
-Incoming mail server (IMAP): imap.group-office.com on port 143
-Outgoing mail server (SMTP): smtp.group-office.com on port 587
-TLS Encryption must be enabled for both servers.
++-----------------------------+-----------------------------------+
+| Username                    | E-mail address                    |
++-----------------------------+-----------------------------------+
+| Password                    | Group-Office password             |
++-----------------------------+-----------------------------------+
+| Incoming mail server (IMAP) | imap.group-office.com on port 143 |
++-----------------------------+-----------------------------------+
+| Outgoing mail server (SMTP) | smtp.group-office.com on port 587 |
++-----------------------------+-----------------------------------+
+| Encryption                  | TLS Encryption for both servers   |
++-----------------------------+-----------------------------------+
 
 To add a mail account take the following steps:
 
