@@ -6,7 +6,10 @@ Linux
 - Contacts
 - E-mail
 
-You can use Thunerbird with the lightning extenstion to synchronize e-mail, contacts and
+Thunderbird
+-----------
+
+You can use Thunerbird with the lightning extention to synchronize e-mail, contacts and
 calendars with IMAP, CardDAV and CalDAV.
 
 Walkthrough guide coming soon...
@@ -26,7 +29,6 @@ On Debian based distributions you can install the Group Office Assistant.
 1. First add our repository to /etc/apt/sources.list::
 
       deb http://repo.group-office.com/ one main
-
 
 2. Add our public key::
 

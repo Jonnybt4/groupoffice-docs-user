@@ -8,6 +8,13 @@ On Windows you can connect Outlook using ActiveSync. You can synchronize:
 - Outlook Contacts
 - Outlook E-mail
 
+
+Outlook / Windows 10
+--------------------
+
+Note: This guide describes Outlook but this kind of ActiveSync account also 
+works for the Windows 10 Mail, People and Calendar app.
+
 To setup an ActiveSync account take the following steps:
 
 1. Open Outlook and click "File". 
