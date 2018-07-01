@@ -18,6 +18,10 @@ With the Group Office assistant you can edit files directly in Group Office. Whe
 you launch a file by double clicking it will automatically mount the webdav drive
 and launch the default application on your computer.
 
+   .. figure:: /_static/linux-assistant/1-groupoffice-assistant.png
+      :width: 400px
+
+
 On Debian based distributions you can install the Group Office Assistant.
 
 1. First add our repository to /etc/apt/sources.list::
