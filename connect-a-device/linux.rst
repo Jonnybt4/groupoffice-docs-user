@@ -19,7 +19,6 @@ you launch a file by double clicking it will automatically mount the webdav driv
 and launch the default application on your computer.
 
    .. figure:: /_static/linux-assistant/1-groupoffice-assistant.png
-      :width: 400px
 
 
 On Debian based distributions you can install the Group Office Assistant.
