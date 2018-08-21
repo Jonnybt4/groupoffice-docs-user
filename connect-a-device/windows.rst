@@ -59,7 +59,7 @@ With Group-Office Assistant you'll connect automatically when you click a file
 in Group-Office.
 
 `Click here to download Group-Office Assistant for Windows 
-<http://repo.group-office.com/downloads/group-office-assistant-windows.exe>`_.
+<https://repo.group-office.com/downloads/group-office-assistant-windows.exe>`_.
 
 After installing it you can use it as follows:
 
