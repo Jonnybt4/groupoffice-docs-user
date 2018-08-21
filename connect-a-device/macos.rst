@@ -15,7 +15,7 @@ You can map Group-Office as network drive using WebDAV.
 With Group-Office Assistant you'll connect automatically when you click a file
 in Group-Office.
 
-`Click here to download Group-Office Assistant for MacOS <http://repo.group-office.com/downloads/group-office-assistant-macos.dmg>`_.
+`Click here to download Group-Office Assistant for MacOS <https://repo.group-office.com/downloads/group-office-assistant-macos.dmg>`_.
 
 After downloading take the following steps to install:
 
