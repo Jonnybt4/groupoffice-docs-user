@@ -25,4 +25,8 @@ device to Group Office.
    connect-a-device/windows
    
    
+.. toctree:: 
+   :maxdepth: 2  
+   :caption: Manual:
 
+   notes/notes
